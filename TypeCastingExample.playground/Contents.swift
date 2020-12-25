@@ -88,3 +88,16 @@ for thing in things {
         print("smt else")
     }
 }
+
+/// simple casting
+let x = 10.3
+let y: Float = 20.7
+let z = 9
+
+//let sum: Double = x + z
+
+func f() -> String {
+    return "sfklsd"
+}
+
+f()
